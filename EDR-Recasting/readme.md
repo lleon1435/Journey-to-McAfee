@@ -32,9 +32,11 @@ So, we can simply copy the function address (RtlCreateUserThread/CreateRemoteThr
 ![Alt text](https://github.com/RedTeamOperations/Journey-to-McAfee/blob/main/EDR-Recasting/img/4.png?raw=true ":)")
  
 Local Shellcode Execution.
+
 ![Alt text](https://github.com/RedTeamOperations/Journey-to-McAfee/blob/main/EDR-Recasting/img/5.png ":)")
 
 McAfee Status
+
 ![Alt text](https://github.com/RedTeamOperations/Journey-to-McAfee/blob/main/EDR-Recasting/img/6.png ":)")
 
 ## NOTE

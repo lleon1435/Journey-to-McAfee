@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 	hMfehcinj = GetModuleHandleA("mfehcinj.dll");
 	hMfehcthe = GetModuleHandleA("mfehcthe.dll");
 	if (hMfehcinj == NULL) {
-		printf("[-] Can't access handle to the Current Process. Error code: %d \n", GetLastError());
+		printf("[-] Can't access handle to the Module Mfehcinj. Error code: %d \n", GetLastError());
 		exit(-1);
 	}
 	printf("[+] Module is loaded at base address: %p\n", hMfehcinj);
